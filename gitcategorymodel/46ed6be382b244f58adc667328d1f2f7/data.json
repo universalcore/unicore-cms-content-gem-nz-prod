@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Family Matters", 
+        "slug": "family-matters", 
+        "source": null, 
+        "featured_in_navbar": true, 
+        "id": "46ed6be382b244f58adc667328d1f2f7"
+    }, 
+    "model": "GitCategoryModel"
+}
