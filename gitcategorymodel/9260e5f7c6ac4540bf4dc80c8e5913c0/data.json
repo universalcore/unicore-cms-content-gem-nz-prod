@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "girls stories", 
+        "slug": "girls-stories", 
+        "source": null, 
+        "featured_in_navbar": true, 
+        "id": "9260e5f7c6ac4540bf4dc80c8e5913c0"
+    }, 
+    "model": "GitCategoryModel"
+}
