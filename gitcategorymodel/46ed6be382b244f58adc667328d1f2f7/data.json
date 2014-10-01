@@ -5,7 +5,7 @@
         "title": "Family Matters", 
         "slug": "family-matters", 
         "source": null, 
-        "featured_in_navbar": true, 
+        "featured_in_navbar": false, 
         "id": "46ed6be382b244f58adc667328d1f2f7"
     }, 
     "model": "GitCategoryModel"
