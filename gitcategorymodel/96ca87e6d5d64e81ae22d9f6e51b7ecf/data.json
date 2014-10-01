@@ -5,7 +5,7 @@
         "title": "Love & Health", 
         "slug": "love-health", 
         "source": null, 
-        "featured_in_navbar": true, 
+        "featured_in_navbar": false, 
         "id": "96ca87e6d5d64e81ae22d9f6e51b7ecf"
     }, 
     "model": "GitCategoryModel"
