@@ -1,15 +1,15 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "Fatuma, Somalia\r\n<i> In recent years, refugees from Somalia, Sudan, Ethiopia and the Democratic Republic of Congo fled from violence in their countries and arrived in Kenya. This is the story of one girl. </i>", 
+        "description": "Fatuma, Somalia\r\n", 
         "language": "eng_UK", 
         "title": "Abandoned and Alone: How I found a new family", 
         "primary_category": "9260e5f7c6ac4540bf4dc80c8e5913c0", 
         "created_at": "2014-10-01T09:49:01+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-10-03T09:31:13.648868+00:00", 
+        "modified_at": "2014-10-03T09:32:29.380081+00:00", 
         "slug": "test-article1", 
-        "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>", 
+        "content": "<p> In recent years, refugees from Somalia, Sudan, Ethiopia and the Democratic Republic of Congo fled from violence in their countries and arrived in Kenya. This is the story of one girl. </p>\r\n<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>", 
         "source": null, 
         "featured": true, 
         "published": true, 
