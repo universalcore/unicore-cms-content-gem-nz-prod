@@ -6,7 +6,7 @@
         "slug": "life-tips", 
         "source": null, 
         "position": 1, 
-        "featured_in_navbar": false, 
+        "featured_in_navbar": true, 
         "id": "4b65e0c3d5d54107b038e0d1c2305f2b"
     }, 
     "model": "GitCategoryModel"
