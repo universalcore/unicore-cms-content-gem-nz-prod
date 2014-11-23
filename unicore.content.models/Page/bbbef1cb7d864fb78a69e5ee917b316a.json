@@ -6,12 +6,12 @@
   "primary_category": "9260e5f7c6ac4540bf4dc80c8e5913c0", 
   "created_at": "2014-10-08T07:37:47+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-11-20T08:18:28.055186+00:00", 
+  "modified_at": "2014-11-23T20:45:01.006277+00:00", 
   "_version": {
     "package_version": "0.2.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -21,7 +21,7 @@
   "content": "http://tz.qa.gem.unicore.io/", 
   "source": null, 
   "featured": true, 
-  "image": null, 
+  "image": "0827b2a3556248cc90802c777ce2a363", 
   "published": true, 
   "position": 5, 
   "image_host": "http://qa.thumbor.unicore.io", 
