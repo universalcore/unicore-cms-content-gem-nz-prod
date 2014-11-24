@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "swh_TZ", 
+        "title": "contact Us", 
+        "primary_category": null, 
+        "created_at": "2014-10-06T10:27:07+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-06T10:27:35.760996+00:00", 
+        "linked_pages": [], 
+        "slug": "contact", 
+        "content": "info@girleffect.org ", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "90112f98a2d049e6af667b0ea23954d1"
+    }, 
+    "model": "GitPageModel"
+}
