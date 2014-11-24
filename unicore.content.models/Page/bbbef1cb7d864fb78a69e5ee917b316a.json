@@ -6,22 +6,22 @@
   "primary_category": "9260e5f7c6ac4540bf4dc80c8e5913c0", 
   "created_at": "2014-10-08T07:37:47+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-11-23T20:45:01.006277+00:00", 
+  "modified_at": "2014-11-24T09:29:27.426055+00:00", 
   "_version": {
     "package_version": "0.2.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "532e03f4faf24b2aba393650b813ee80"
   ], 
   "id": "bbbef1cb7d864fb78a69e5ee917b316a", 
-  "content": "http://tz.qa.gem.unicore.io/", 
+  "content": "http://tz.qa.gem.unicore.io/\r\n\r\n", 
   "source": null, 
   "featured": true, 
-  "image": "0827b2a3556248cc90802c777ce2a363", 
+  "image": "754019c1bf67462b90f43b069148e85a", 
   "published": true, 
   "position": 5, 
   "image_host": "http://qa.thumbor.unicore.io", 
