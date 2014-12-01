@@ -4,14 +4,14 @@
   "language": "mar_IN", 
   "title": "\u092e\u093e\u091d\u0940 \u0924\u094d\u0935\u091a\u093e \u0935\u093f\u091a\u093f\u0924\u094d\u0930 \u091d\u093e\u0932\u0940 \u0906\u0939\u0947. ", 
   "primary_category": "842e816508d64549b7bf6f0682e7dc1a", 
-  "created_at": "2014-12-01T16:17:43.517880+00:00", 
+  "created_at": "2014-12-01T16:17:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-01T16:17:43.518053+00:00", 
+  "modified_at": "2014-12-01T16:20:25.339079+00:00", 
   "_version": {
     "package_version": "0.3.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "Thandi", 
   "uuid": "7d1b7018fd03476291de1f0a5acfb536"
