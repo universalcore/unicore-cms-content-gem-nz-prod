@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Fatuma, Somalia\r\n", 
+  "description": "Fatuma, Somalia, Codie\r\n", 
   "language": "eng_GB", 
   "title": "Abandoned and Alone: How I found a new family", 
   "primary_category": "9260e5f7c6ac4540bf4dc80c8e5913c0", 
   "created_at": "2014-10-01T09:49:01+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-11T09:02:28.207799+00:00", 
+  "modified_at": "2014-12-11T09:09:09.833209+00:00", 
   "_version": {
     "package_version": "0.2.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
