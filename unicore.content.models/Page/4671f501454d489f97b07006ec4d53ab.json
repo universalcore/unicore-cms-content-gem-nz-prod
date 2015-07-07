@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "swa_TZ", 
+  "title": "A translation test article", 
+  "primary_category": "d1a179d153f745f5bacc2f87e878842a", 
+  "created_at": "2014-10-23T11:59:42.251752+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-20T08:18:23.904897+00:00", 
+  "_version": {
+    "package_version": "0.2.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "4671f501454d489f97b07006ec4d53ab", 
+  "content": "This is the sample content", 
+  "source": "c3fd421f878c44b8827875f94b7c3b62", 
+  "featured": false, 
+  "image": null, 
+  "published": true, 
+  "position": 2, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "translation-test-article", 
+  "uuid": "4671f501454d489f97b07006ec4d53ab"
+}
