@@ -6,15 +6,17 @@
   "primary_category": "6de702b32e0846fbbdbca296a573365e", 
   "created_at": "2016-12-08T13:14:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-08T13:14:07+00:00", 
+  "modified_at": "2017-02-20T12:14:43.406259+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ec31614bc1a4479ab49550a404e79ab2"
+  ], 
   "id": null, 
   "content": "Un empleo es la forma m\u00e1s sencilla de independizarte econ\u00f3micamente. Lo mejor es tener un curr\u00edculo escrito a computadora, pero no debes preocuparte si no tienes acceso a una computadora con impresora; puedes crear un excelente curr\u00edculo sin ellas.\r\n\r\n**1. Menciona los empleos que has tenido**  \r\nSi has hecho algo en el mismo campo al que pertenece el empleo al que te est\u00e1s postulando, col\u00f3calo en primer lugar. No importa si a\u00fan no tienes experiencia laboral. Piensa en casos en los que has tenido un lugar de responsabilidad en tu comunidad o escuela, como puede ser desempe\u00f1arte como voluntaria o ser capitana de un equipo. Tambi\u00e9n menciona la educaci\u00f3n formal que recibiste, los logros (quiz\u00e1 hayas sido delegada de la escuela o hayas recibido distinciones acad\u00e9micas o deportivas) y no olvides incluir tu informaci\u00f3n de contacto. \r\n \r\nCONSEJO: intenta postularte a un empleo que coincida con tus estudios o con las cosas en las que eres buena. Menciona los atributos que sean m\u00e1s relevantes para el empleo al que te est\u00e1s postulando. Por ejemplo, si eres buena con los ni\u00f1os, si eres buena cocinera, si hablas ingl\u00e9s o si sabes escribir a computadora. \r\n\r\n\r\n**2. Agrega una referencia**  \r\nSe trata de alguien a quien el posible empleador pueda contactar para obtener una recomendaci\u00f3n. Puede ser un empleador anterior, un docente, un entrenador o, incluso, un amigo de la familia que trabaje en el mismo campo en el que te est\u00e1s postulando. Aseg\u00farate de que esa persona dar\u00e1 una imagen positiva sobre tu desempe\u00f1o acad\u00e9mico o sobre tus aptitudes laborales. \r\n\r\n\r\n**3. Cuida el formato**  \r\nEl formato hace referencia a d\u00f3nde y c\u00f3mo ordenas tus palabras. Pon los t\u00edtulos en negrita, subraya la informaci\u00f3n importante y divide el texto en p\u00e1rrafos que sean parejos. Tambi\u00e9n utiliza listas o vi\u00f1etas para organizar tu experiencia, educaci\u00f3n o destrezas, de forma tal que se destaquen.\r\n\r\n\r\n**4. Consigue el material adecuado**  \r\nUtiliza una hoja de papel blanco y tinta negra para que luzca profesional. Si est\u00e1s escribiendo a mano, utiliza un bol\u00edgrafo que funcione bien y una regla para trazar renglones: un curr\u00edculo en el que el texto queda bien alineado luce m\u00e1s atractivo. Adem\u00e1s, p\u00eddele a un amigo, familiar o docente que controle tu ortograf\u00eda y gram\u00e1tica.  \r\n\r\n\r\n**5. Gu\u00e1rdalo**  \r\nSi el curr\u00edculo est\u00e1 hecho en computadora, aseg\u00farate de guardar la copia electr\u00f3nica. Si est\u00e1s usando una computadora compartida, como en la escuela o en un cibercaf\u00e9, env\u00edatelo por correo electr\u00f3nico a tu direcci\u00f3n de correo. Tambi\u00e9n es buena idea guardar el archivo en una memoria externa o en tu tel\u00e9fono, as\u00ed como har\u00edas con una canci\u00f3n o una fotograf\u00eda.\r\n\r\n\r\n**6. Distribuye tu curr\u00edculo**  \r\nAhora que has terminado todo el trabajo dif\u00edcil, es momento de salir repartir. Puedes enviar tu curr\u00edculo por correo electr\u00f3nico si te est\u00e1s postulando para un empleo que has visto en un anuncio, pero, en lo posible, acude en persona a los lugares en los que te gustar\u00eda trabajar. Pregunta si tienen alguna vacante y entr\u00e9gale tu curr\u00edculo en mano a la persona adecuada. Pide hablar con la persona encargada de la contrataci\u00f3n, si es posible.  \r\n\r\nAhora que ya tienes un curr\u00edculo, sal a buscar ese empleo. \u00a1Te deseamos lo mejor! ", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "14528024b2ba4e27ad0b97bda8079bda", 
   "published": null, 
-  "position": 317, 
+  "position": 326, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "consejos-para-que-tu-cv-brille", 
   "uuid": "800a33855f8b43fcbbf4061e77ed244a"
