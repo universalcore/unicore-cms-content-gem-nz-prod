@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "\r\n\r\nRecherche les signes suivants : \r\n", 
+  "language": "fre_FR", 
+  "title": " TES AMIES SONT-ELLES MAUVAISES POUR TOI ? ", 
+  "primary_category": "6f3763ee6f67423ca28a05cf665bbadf", 
+  "created_at": "2016-12-08T11:14:10+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-12-08T11:14:10+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Il existe plusieurs cat\u00e9gories de personnes dans le monde, et tout le monde ne peut pas \u00eatre bon pour toi. La meilleure fa\u00e7on d'identifier les amies qui feront de toi une meilleure personne est d'apprendre \u00e0 reconna\u00eetre celles qui te l\u00e2cheront :\r\n\r\n**Une mauvaise amie te fera faire des choses qui te mettent mal \u00e0 l'aise.**   \r\nAlors, si tu n'es pas \u00e0 l'aise au milieu de cetaines personnes, ou avec des choses qu'elles te demandent de faire, c'est le moment de faire marche arri\u00e8re.\r\n\r\n**Elles se moquent de toi ou de tes croyances.**  \r\nUne bonne amie te respectera et respectera aussi ce en quoi tu crois. Si quelqu'un te juge, se moque ou rit de toi \u00e0 cause de ta religion, de ton apparence ou d'un choix de vie - cette personne ne fait pas partie de ta vie. \r\n\r\n**Elle n'\u00e9coute pas ce que tu veux.**  \r\nLes intimidatrices ou les personnes autoritaires s'attendent \u00e0 ce que tu les \u00e9coutes sans poser aucune question. Il pourrait s'av\u00e9rer difficile de r\u00e9sister face \u00e0 ces personnes, surtout si tu es timide. Mais si elles se consid\u00e8rent comme tes amies, elles devraient essayer de t'inclure et d'\u00e9couter tes points de vue. \r\n\r\n**Tu ne te sens pas bien dans ta peau quand tu es parmi elles.**   \r\nLes bonnes amies sont contentes lorsque tu es contente. M\u00e9fies-toi des gens qui sont m\u00e9contents, amers ou qui parlent mal des autres - ils essayeront de te fa\u00e7onner en leur propre image.  \r\n\r\n**Dire non \u00e0 une mauvaise amie peut \u00eatre difficile, mais cela vaut la peine.**  \r\nSi tu veux r\u00e9ussir dans la vie, fais-toi entour\u00e9e de personnes positives qui accompagneront tes r\u00eaves et tes objectifs.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 323, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "are-your-friends-bad-for-you", 
+  "uuid": "3b660f4e33cf42aab4cc0f372a424883"
+}
