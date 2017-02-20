@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "\r\nLe meilleur emploi pour toi est celui qui correspond \u00e0 ta personnalit\u00e9 ! Passe ce test amusant pour savoir quels emplois correspondraient \u00e0 tes points forts. \r\n", 
+  "language": "fre_FR", 
+  "title": " QUEL EST LE MEILLEUR EMPLOI POUR TOI ?", 
+  "primary_category": "61a26ec815ed4eb7be433ac74400bf8f", 
+  "created_at": "2016-12-08T10:55:30+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-12-08T10:55:30+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**1. Lorsque tu regardes une \u00e9mission t\u00e9l\u00e9vis\u00e9e ou un film, de quoi tu prends note le plus ?**  \r\nA) La beaut\u00e9 et les \u00e9motions des acteurs  \r\nB)L'action, les courses-poursuites en voiture et des effets sp\u00e9ciaux sophistiqu\u00e9s  \r\nC) Combien \u00e7a co\u00fbte pour le r\u00e9aliser et ce que les acteurs per\u00e7oivent  \r\n\r\n**2. Lors de la planification d'une sortie avec des amies ou d'un \u00e9v\u00e9nement \u00e0 l'\u00e9cole, qu'est-ce qui te d\u00e9crit le mieux ?**  \r\nA) Je suis charg\u00e9e des choses amusantes \u2013 musique, jeux et nourriture  \r\nB) Je suis charg\u00e9e des invitations et je m'assure que tout le monde arrive \u00e0 l'heure  \r\nC) Je suis charg\u00e9e d'effectuer toutes les recherches, de trouver un lieu et de d\u00e9terminer le prix de toute chose  \r\n\r\n**3. Quel genre de livres aimes-tu lire ?**  \r\nA) Des livres fantastiques et de romance   \r\nB) Des livres sur la science, l'espace, le voyage et la d\u00e9couverte  \r\nC) Des livres d'histoires inspirantes v\u00e9cues par des personnes r\u00e9elles  \r\n\r\n**4. Lorsque tu es confront\u00e9e \u00e0 un d\u00e9fi quelles sont les comp\u00e9tences dont tu fais usage normalement pour le surmonter ?**  \r\nA) J'essaye de raisonner pour m'en sortir d'une situation  \r\nB) J'aime utiliser mes mains afin de construire ou de fabriquer quelque chose qui peut r\u00e9soudre mon probl\u00e8me  \r\nC) J'aime faire des recherches ou lire des livres \u00e0 l'\u00e9cole afin de trouver des r\u00e9ponses \u00e0 mon probl\u00e8me  \r\n\r\n**5. Si tu as une plante ou si tu cultives quelques l\u00e9gumes et que tu remarques qu'ils paraissent un peu malade, que fais-tu ?**  \r\nA) Je parlerais aux plantes et je chanterais pour elles  \r\nB) J'essayerais de cr\u00e9er un rem\u00e8de maison ou naturel  \r\nC) Je rechercherais et analyserais les sympt\u00f4mes et ensuite j'essayerais la meilleure solution   \r\n\r\n*Quelles r\u00e9ponses as-tu obtenu ?*\r\n\r\n**En majorit\u00e9 les A**  \r\nTu es une \u00e2me sensible avec beaucoup de comp\u00e9tences artistiques. Ta force est que tu es une r\u00eaveuse et tu aimes aider les autres. Les personnes cr\u00e9atives s'en sortent bien dans des emplois relatifs \u00e0 la musique, \u00e0 l'\u00e9criture, au journalisme, \u00e0 l'enseignement, \u00e0 la mode et au travail social.  \r\n\r\n**En majorit\u00e9 les B**  \r\n Tu aimes exp\u00e9rimenter et comprendre le cours des choses. Un emploi dans le domaine de la science, dans une usine, dans le domaine de la m\u00e9decine, de l'agriculture, de la m\u00e9canique ou encore de l'industrie agro-alimentaire, ferait ressortir le meilleur en toi.\r\n\r\n**En majorit\u00e9 les C**  \r\nTu es quelqu'une qui aime d\u00e9terminer la bonne fa\u00e7on de faire les choses, au moyen de la recherche. Si tu te sens \u00e0 l'aise avec les chiffres, la comptabilit\u00e9 ou les affaires pourraient \u00eatre pour toi. Si tu es une lectrice avide, tu aimeras travailler dans domaine juridique, avec le gouvernement ou dans une universit\u00e9.  \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 327, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "whats-the-best-job-for-you", 
+  "uuid": "f0175b2a121145358ed461f78319b38a"
+}
