@@ -6,15 +6,17 @@
   "primary_category": "6f3763ee6f67423ca28a05cf665bbadf", 
   "created_at": "2016-12-08T11:05:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-08T11:05:39+00:00", 
+  "modified_at": "2017-02-20T12:12:03.860876+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "029a12c7b4934a13a89e00a5408fda11"
+  ], 
   "id": null, 
   "content": "Personne ne peut comprendre les pr\u00e9occupations d'une jeune fille mieux qu'une autre fille. Ensemble, les filles peuvent rendre le monde meilleur ! Voici comment tu peux travailler avec d'autres pour apporter des changements : \r\n\r\n**Trouve ta sororit\u00e9**  \r\n Cherche dans ton \u00e9cole ou dans ta communaut\u00e9 des filles qui ont les m\u00eames int\u00e9r\u00eats que toi et qui veulent atteindre les m\u00eames objectifs, et pr\u00e9voyez des temps pour vous rencontrer. Tu aimes la musique ? Cherches \u00e0 savoir s'il y a d'autres filles qui seraient int\u00e9ress\u00e9es par des rencontres pour r\u00e9p\u00e9ter apr\u00e8s l'\u00e9cole. \r\n\r\n\r\n**Commences petitement, sois sp\u00e9cifique**  \r\nListe clairement tes objectifs. Qu'est-ce que tu veux ? N'aie pas peur de commencer par une petite solution. Peut-\u00eatre que les filles de ton quartier ne sont pas capables d'aller en toute s\u00e9curit\u00e9 \u00e0 l'\u00e9cole \u00e0 pied. Cr\u00e9e un groupe o\u00f9 vous allez toutes ensemble \u00e0 l'\u00e9cole \u00e0 pied. \r\n\r\n\r\n**\u00c9coutez-vous les unes les autres**  \r\nTout le monde ne r\u00e9fl\u00e9chira exactement de la m\u00eame fa\u00e7on que toi, et c'est pas grave. La cl\u00e9 pour travailler ensemble avec succ\u00e8s est de s'\u00e9couter les unes les autres et de respecter des opinions diff\u00e9rentes. \r\n\r\n\r\n**Entraidez-vous les unes les autres**  \r\nQu'importe la situation vous devez rester ensemble. Les filles de ton groupe sont tes s\u0153urs, et la protection de la sororit\u00e9 est importante. Soyez amies, enseignantes, familles et soutenez-vous les unes les autres. \r\n\r\n\r\n**Partagez vos comp\u00e9tences**  \r\nL'une des meilleures fa\u00e7ons pour vous soutenir mutuellement est \u00e0 travers vos talents. Si vous es g\u00e9nie en math\u00e9matiques, aide \u00e0 encadrer tes amies. Cette amie avec d'\u00e9tonnantes comp\u00e9tences en couture sera plus dispos\u00e9e \u00e0 t'aider avec une tenue pour une occasion sp\u00e9ciale si tu es g\u00e9n\u00e9reuse avec tes comp\u00e9tences. \r\n\r\n\r\n**Dis non \u00e0 la n\u00e9gativit\u00e9**  \r\n\u00catre parmi des filles qui n'ont jamais rien de positif \u00e0 dire peut te retrograder. Ne laisse pas la n\u00e9gativit\u00e9 influencer tes sentiments, mais entoure-toi plut\u00f4t des filles qui t'\u00e9l\u00e8vent. \r\nLes filles qui passent du temps ensemble ne doivent pas juste se promener. Lorsque vous partagez des comp\u00e9tences et que vous vous encouragez mutuellement votre sororit\u00e9 peut devenir un r\u00e9seau solide et pr\u00e9cieux qui peut continuer \u00e0 vous aider \u00e0 atteindre vos objectifs dans l'avenir. \r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "cfeeecb9046643168ee49d5ed27bf1fc", 
   "published": null, 
-  "position": 325, 
+  "position": 387, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "girls-were-stronger-together", 
   "uuid": "e5b2df639c2448109cb79684bb297e5f"
