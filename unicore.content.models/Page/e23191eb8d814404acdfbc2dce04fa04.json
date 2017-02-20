@@ -6,15 +6,17 @@
   "primary_category": "61a26ec815ed4eb7be433ac74400bf8f", 
   "created_at": "2016-12-08T10:45:47+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-08T10:45:47+00:00", 
+  "modified_at": "2017-02-20T12:12:31.635028+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0950f8a66cce4e5191eac57f817f330c"
+  ], 
   "id": null, 
   "content": "Un emploi est le moyen le plus facile pour \u00eatre financi\u00e8rement autonome ! Il est pr\u00e9f\u00e9rable d'avoir un curriculum vitae saisi, mais tu ne dois pas t'inqui\u00e9ter si tu n'as pas acc\u00e8s \u00e0 un ordinateur avec une imprimante, tu peux cr\u00e9er un curriculum vitae impressionnant sans ordinateur.\r\n\r\n**1. \u00c9num\u00e8re les emplois que tu as exerc\u00e9s**  \r\n Si tu as fait quelque chose dans le m\u00eame domaine que l'emploi pour lequel tu veux postuler, mets \u00e7a en premier. Ce n'est pas grave si tu n'as encore aucune exp\u00e9rience professionnelle, pense aux situations dans lesquelles tu as occup\u00e9 un poste de responsabilit\u00e9 dans ta communaut\u00e9 ou dans ton \u00e9cole, en tant que volontaire chef d'\u00e9quipe par exemple. Aussi \u00e9num\u00e8re tes formations, tes r\u00e9alisations (peut-\u00eatre que tu \u00e9tais responsable ou que tu as re\u00e7u des distinctions acad\u00e9miques ou sportives), et n'oublie tes coordonn\u00e9es. \r\n \r\nCONSEIL : essaye de postuler pour un emploi qui correspond \u00e0 tes \u00e9tudes ou aux choses pour lesquelles tu es d\u00e9j\u00e0 comp\u00e9tente. \u00c9num\u00e8re les comp\u00e9tences qui sont les plus pertinentes pour l'emploi auquel tu postules, par exemple si tu te sens \u00e0 l'aise avec les enfants, en cuisine, en langue anglaise ou en saisie. \r\n\r\n\r\n**2. Ajoute une r\u00e9f\u00e9rence**  \r\nC'est une personne que ton employeur potentiel peut contacter pour une recommandation - Elle pourrait \u00eatre un ancien employeur, un enseignant, un entra\u00eeneur ou m\u00eame un ami de la famille qui exerce dans le m\u00eame domaine que l'emploi auquel tu postules. Assure-toi qu'ils vont parler positivement tes performances acad\u00e9miques ou de tes comp\u00e9tences professionnelles. \r\n\r\n\r\nMets-le bien en forme  \r\nLa mise en forme signifie la mani\u00e8re dont tu as arrang\u00e9 tes mots. Mets les titres en gras, souligne les informations importantes et cr\u00e9e des paragraphes qui sont align\u00e9s uniform\u00e9ment. En outre, utilise des listes numerot\u00e9es ou les listes \u00e0 puces pour lister tes exp\u00e9riences, tes formations et/ou tes comp\u00e9tences afin qu'elles se d\u00e9marquent.\r\n\r\n\r\n**3. Utilise le bon mat\u00e9riel**  \r\nIl faut s'en tenir au papier blanc et \u00e0 l'encre noire de sorte qu'il soit professionnel. Si tu \u00e9cris \u00e0 la main assure-toi que tu utilises un stylo qui fonctionne correctement et utilise une r\u00e8gle pour tracer des lignes droites - un curriculum vitae dans lequel les lignes sont bien arrang\u00e9es est plus attrayant. Demande aussi \u00e0 un ami, un membre de la famille ou un enseignant de te v\u00e9rifier l'orthographe et la grammaire.  \r\n\r\n\r\n**4. Enregistre**   \r\nSi tu as saisi ton curriculum vitae, assure-toi d'avoir  enregistr\u00e9 la copie \u00e9lectronique. Si tu utilises un ordinateur partag\u00e9 comme \u00e0 l'\u00e9cole ou dans un cyber caf\u00e9, il suffit de l'envoyer par courriel dans ta propre bo\u00eete. C'est \u00e9galement une bonne id\u00e9e de stocker le fichier en utilisant une cl\u00e9 USB ou sur ton t\u00e9l\u00e9phone comme tu le ferais avec une chanson ou une image.\r\n\r\n\r\n**5. Partage ton curriculum vitae**  \r\nMaintenant que tout le travail est fait, il est temps d'y aller. Tu peux envoyer ton curriculum vitae par courriel ou par la poste si tu postules pour une offre d'emploi qui a \u00e9t\u00e9 publi\u00e9e, mais si possible rends-toi en personne sur les lieux o\u00f9 tu aimerais travailler. Renseigne-toi s'ils ont des postes vacants et d\u00e9pose ton curriculum vitae aupr\u00e8s de la bonne personne. Demande \u00e0 voir la personne charg\u00e9e du recrutement si possible.  \r\n\r\nMaintenant que tu as un curriculum vitae, vas chercher du travail. Bonne chance ! \r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "b1fcd30e8d444c07a06c7581b299a1bb", 
   "published": null, 
-  "position": 328, 
+  "position": 360, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "conseils-pour-elaborer-un-bon-cv", 
   "uuid": "e23191eb8d814404acdfbc2dce04fa04"
