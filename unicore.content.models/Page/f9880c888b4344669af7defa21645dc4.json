@@ -6,15 +6,17 @@
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2014-12-11T08:24:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-11T08:24:42+00:00", 
+  "modified_at": "2017-02-20T12:14:16.391441+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0871e802df4b496f865db052c88cabe7"
+  ], 
   "id": null, 
   "content": "Los amigos hacen la vida m\u00e1s divertida y comparten la carga de tus problemas. No importa cu\u00e1ntos amigos tengas. Lo que m\u00e1s importa es ser una buena amiga para las personas que te importan. \u00a1Existen un mill\u00f3n de maneras de ser una buena amiga! Aqu\u00ed hay algunas ideas:\r\n\r\n - Una regla de oro consiste en pensar qu\u00e9 querr\u00edas y necesitar\u00edas de un amigo/a, y actuar de la misma manera con tus amigos. \r\n - Escucha a tus amigos y respeta las opiniones de los dem\u00e1s, incluso si sus ideas son diferentes a las tuyas.\r\n - Acepta la forma de ser de tus amigos. Un buen amigo no critica de manera constante a sus amigos ni trata de hacerlos cambiar. Aprecia a tus amigos por c\u00f3mo son y tr\u00e1talos como te gustar\u00eda que te traten.\r\n - S\u00e9 comprensiva y perdona.  Ponte en el lugar de tu amigo/a. Todos cometemos errores.\r\n - S\u00e9 confiable. Esto significa hacer lo que dices que har\u00e1s y nunca actuar a espaldas de tu amigo/a. No compartas los secretos que tus amigos te cuenten, a menos que se encuentren en peligro. Si lo est\u00e1n y necesitan ayuda, busca a un adulto en qui\u00e9n conf\u00edas para hablar con \u00e9l/ella.\r\n\r\n**Los amigos son de especial importancia. Son las personas que te escuchar\u00e1n y guardar\u00e1n tus secretos. Pero saber c\u00f3mo ser un buen amigo no siempre es f\u00e1cil. Esta es la historia de una chica:** \r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "32f2c0e6d5264fda861db973235be4c8", 
   "published": null, 
-  "position": 508, 
+  "position": 539, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-want-friends", 
   "uuid": "f9880c888b4344669af7defa21645dc4"
