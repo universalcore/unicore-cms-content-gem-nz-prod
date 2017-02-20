@@ -6,15 +6,17 @@
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2016-12-08T13:25:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-08T13:25:01+00:00", 
+  "modified_at": "2017-02-20T12:13:29.043338+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "81b95e3eb0944d0e8d725446214df5a2"
+  ], 
   "id": null, 
   "content": "En la actualidad, muchas ni\u00f1as est\u00e1n logrando cosas que muchas personas nunca hubieran pensado que era posible lograr. Conoce a cinco jovencitas que le han demostrado al mundo que no hay nada que las ni\u00f1as no puedan hacer. \r\n\r\n**Laura Dekker**, de Holanda, es la persona m\u00e1s joven de la historia en recorrer el mundo en bote... \u00a1por su cuenta! Primero tuvo que convencer al gobierno de su pa\u00eds para que la dejara intentarlo y enfrentarse a los legisladores que quisieron detenerla. Sin embargo, se impuso y logr\u00f3 su objetivo. Laura termin\u00f3 su viaje de dos a\u00f1os en julio de 2012, a los de 16 a\u00f1os de edad. \r\n\r\n**Mikaila Ulmer** fund\u00f3 su empresa, Me & the Bees Lemonade, cuando ten\u00eda tan solo cuatro a\u00f1os. La popular bebida est\u00e1 hecha con jugo de lim\u00f3n, miel y agua. Despu\u00e9s de que la picaran dos veces, Mikaila resolvi\u00f3 aprender todo lo que pudiera sobre las abejas y descubri\u00f3 lo importantes que son para la naturaleza. Ahora, cada botella de limonada que vende aporta dinero para salvar a estas abejas. \r\n\r\n**Eva Tolage** le escribi\u00f3 una carta a Barack Obama, el presidente de los Estados Unidos, cuando ten\u00eda 14 a\u00f1os. En la carta, le exig\u00eda m\u00e1s acciones para combatir la pobreza en su pueblo de Tanzania y en todo el mundo. Su carta tambi\u00e9n hablaba de c\u00f3mo ella y otras ni\u00f1as se enfrentaban al hambre y a la falta de educaci\u00f3n, agua potable y electricidad. La carta de Eva inspir\u00f3 a los l\u00edderes del mundo a tomar medidas en las Naciones Unidas. \r\n\r\n**Niloofar Rahmani** es la primera mujer piloto que se entren\u00f3 en el ej\u00e9rcito afgano. Ella y su familia enfrentaban muchos peligros, pero persever\u00f3 para completar su entrenamiento. En 2015, recibi\u00f3 un Premio Internacional Mujeres de Coraje por su valent\u00eda.\r\n\r\n**Judi Lerumbe**, de Kenia, ten\u00eda tan solo 15 a\u00f1os cuando su padre intent\u00f3 obligarla a casarse con un hombre mucho mayor. Con la ayuda de su madrastra, Judi se escap\u00f3 de su pueblo para unirse a Umoja, un pueblo seguro exclusivo para mujeres en el que las ni\u00f1as pueden asistir a la escuela en lugar de tener que casarse j\u00f3venes. Hoy, Judi trabaja en un museo que ayuda a atraer turistas a su \u00e1rea y a crear puestos de trabajo para las mujeres locales.", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "e60e999ed3a14f299a0a986e24f86dd1", 
   "published": null, 
-  "position": 314, 
+  "position": 394, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "las-ninas-pueden-lograrlo", 
   "uuid": "7defeb12fee44fbf87b501e89367ea04"
