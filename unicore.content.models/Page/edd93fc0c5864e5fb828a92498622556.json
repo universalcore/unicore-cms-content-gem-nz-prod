@@ -6,15 +6,17 @@
   "primary_category": "61a26ec815ed4eb7be433ac74400bf8f", 
   "created_at": "2016-12-08T10:39:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-08T10:39:58+00:00", 
+  "modified_at": "2017-02-20T12:12:59.378216+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "580333d7d142448aa1eb3d73d30eab9a"
+  ], 
   "id": null, 
   "content": "Je m'appelle Bharti et j'ai grandi dans un petit village dans le nord de l'Inde. Il n'y a que 40 familles dans notre village, et la plupart d'entre nous n'avait jamais eu l'occasion d'aller \u00e0 l'\u00e9cole, \u00e0 plus forte raison \u00e0 l'\u00e9cole priv\u00e9e. Mes parents ne pouvaient se permettre d'envoyer qu'un seul enfant dans une \u00e9cole priv\u00e9e et malgr\u00e9 le fait que je suis la plus brillante de tous mes fr\u00e8res et s\u0153urs, c'\u00e9tait mon fr\u00e8re a\u00een\u00e9 qui a \u00e9t\u00e9 choisi. J'ai essay\u00e9 d'amener mes parents \u00e0 la raison mais cela n'a abouti \u00e0 rien. Au d\u00e9but, j'\u00e9tais tr\u00e8s frustr\u00e9e donc j'ai arr\u00eat\u00e9 de travailler dur \u00e0 l'\u00e9cole, afin de me rebeller contre ma famille. \r\n\r\n\r\nC'\u00e9tait \u00e0 cette \u00e9poque que Madame Nivi est devenue mon professeur en 6\u00e8me ann\u00e9e. Madame Nivi \u00e9tait mon professeur de math\u00e9matiques en 5\u00e8me ann\u00e9e et quand elle a vu mes notes chuter, elle m'a appel\u00e9 pour me demander ce qui n'allait pas. Je lui ai expliqu\u00e9 l'occasion que je perdais parce que mes parents ont refus\u00e9 de changer leur fa\u00e7on de penser. Elle m'a alors guid\u00e9e \u00e0 transformer ma frustration en quelque chose de positif. Elle m'a dit de ne pas me concentrer sur les pens\u00e9es et les sentiments n\u00e9gatifs dont j'\u00e9tais victime, mais plut\u00f4t d'utiliser mes comp\u00e9tences et mes talents pour travailler encore plus dur. Elle a dit, lorsque tu travailles dur, tu vas \u00e0 coup s\u00fbr en r\u00e9colter les fruits. \r\n\r\n\r\nMadame Nivi m'a encourag\u00e9 \u00e0 prouver que tout le monde se trompait. En n'\u00e9tudiant pas, je ne faisais que leur donner raison. \u00c0 la fin de la 6\u00e8me ann\u00e9e, elle m'a parl\u00e9 de quelques bourses offertes aux \u00e9l\u00e8ves qui r\u00e9ussissent brillament \u00e0 leurs examens. Ces \u00e9l\u00e8ves obtiendraient la possibilit\u00e9 d'aller dans une \u00e9cole priv\u00e9e, et que m\u00eame leurs uniformes ainsi que leurs livres seraient pay\u00e9s ! C'\u00e9tait mon r\u00eave et je d\u00e9cidai de travailler tr\u00e8s dur pour r\u00e9ussir brillament \u00e0 mes examens. Mes parents m'encourageaient beaucoup et lorsque les r\u00e9sultats sont sortis, j'ai r\u00e9ussi avec brio et j'ai r\u00e9ussi \u00e0 obtenir la bourse.\r\n\r\nAujourd'hui, je fr\u00e9quente une \u00e9cole priv\u00e9e qui est situ\u00e9e \u00e0 quatre heures de route de ma maison. En raison de la distance, on m'a accord\u00e9 la possibilit\u00e9 de s\u00e9journer au foyer de l'\u00e9cole. Je me suis fait beaucoup d'amies et je r\u00eave de devenir un jour m\u00e9decin et d'aider d'autres personnes. Si madame Nivi ne m'avait pas aid\u00e9 \u00e0 transformer ma frustration en quelque chose de positif - je n'aurais jamais pu \u00eatre ici !\r\n\r\n *Remarque : Histoire inspir\u00e9e par un compte de Teach for India Mentor's par rapport \u00e0 un fait v\u00e9cu.*\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "71622403a1ee4b34940c0459ac1ce4f7", 
   "published": null, 
-  "position": 329, 
+  "position": 332, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mon-mentor-change-ma-vie", 
   "uuid": "edd93fc0c5864e5fb828a92498622556"
