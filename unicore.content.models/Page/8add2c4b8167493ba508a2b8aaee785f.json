@@ -6,15 +6,17 @@
   "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
   "created_at": "2014-12-11T05:28:24+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-11T05:28:24+00:00", 
+  "modified_at": "2017-02-20T12:14:06.471761+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1bdc97a3e6aa468fb088ace3f1fcb7f7"
+  ], 
   "id": null, 
   "content": "  * Puedes sentirte sola, aun cuando todo parezca ir bien. Tal vez est\u00e9s sola y no tengas elecci\u00f3n, o no te sientas parte de un grupo o acontecimiento, o simplemente no tengas a nadie que te entienda. Sentirnos solas puede dejarnos con un mill\u00f3n de preguntas. \u00bfPor qu\u00e9 sucedi\u00f3? \u00bfFue mi culpa? \r\n  * Con frecuencia, sentirte sola te hace querer alejarte a\u00fan m\u00e1s, pero podr\u00eda haber gente tratando de ayudarte \r\n  * De a poco, re\u00fanete con amigos que te contengan y personas amables. Tener gente en tu vida con la que puedes hablar te ayudar\u00e1 a aprender a lidiar con tus desilusiones y p\u00e9rdidas. Con el tiempo, comenzar\u00e1s a confiar en la gente otra vez.\r\n  * Busca un grupo de apoyo. Fatuma encontr\u00f3 a Heshima Kenya, y hay otros grupos de apoyo en todos los pa\u00edses del mundo que pueden ayudarte a recomponer tu vida. Pregunta en una estaci\u00f3n de polic\u00eda, en una escuela o a un adulto que conozcas para que te ayuden a encontrar uno. \r\n  * No est\u00e1s sola. No todos tienen una familia, y hay otras ni\u00f1as como t\u00fa. Puedes construir relaciones s\u00f3lidas e \u00edntimas siendo una buena amiga con los dem\u00e1s. \r\n\r\n**En los \u00faltimos a\u00f1os, refugiados de Somalia, Sud\u00e1n, Etiop\u00eda y la Rep\u00fablica Democr\u00e1tica del Congo huyeron de la violencia de sus pa\u00edses y llegaron a Kenia. Lee la historia de Fatuma:**\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "15b661e4b9754981b8fef6ba9021e11c", 
   "published": null, 
-  "position": 521, 
+  "position": 562, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-feel-alone-world", 
   "uuid": "8add2c4b8167493ba508a2b8aaee785f"
