@@ -6,15 +6,17 @@
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2016-12-08T13:30:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-12-08T13:30:54+00:00", 
+  "modified_at": "2017-02-20T12:14:43.967442+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7defeb12fee44fbf87b501e89367ea04"
+  ], 
   "id": null, 
   "content": "Estas tres mujeres lograron un mundo mejor para las ni\u00f1as, cada una con su propio estilo. Esperamos que sus palabras y sus acciones te inspiren a querer mejorar tu ciudad, tu pueblo, tu escuela y tu hogar.\r\n\r\n\r\n**\u201cPiensa como una reina. Una reina no le tiene miedo al fracaso. El fracaso es tan solo otro escal\u00f3n hacia el \u00e9xito\u201d. \u2013 Oprah Winfrey**    \r\nOprah Winfrey, hija de una madre soltera de Misisipi, en los Estados Unidos, tuvo una infancia dif\u00edcil. Pero no dej\u00f3 que la pobreza la detuviera. Se esforz\u00f3 mucho y tuvo peque\u00f1os logros uno tras otro, hasta que se convirti\u00f3 en la conductora de su propio programa de televisi\u00f3n, The Oprah Winfrey Show. Este programa se convirti\u00f3 en uno de los programas de entrevistas m\u00e1s populares de la historia de la televisi\u00f3n. Oprah ha utilizado su \u00e9xito para mejorar las vidas de mujeres j\u00f3venes que lo necesitan, y una de esas formas es mediante la Academia de Liderazgo Oprah Winfrey para Ni\u00f1as en Sud\u00e1frica. A trav\u00e9s de proyectos tales como la Academia de Liderazgo, espera educar e inspirar a ni\u00f1as de todo el mundo para que ellas tambi\u00e9n puedan combatir la pobreza en sus pa\u00edses. \r\n\r\n\r\n**\u201cCreo que deber\u00eda haber m\u00e1s mujeres en pol\u00edtica, por el bien de la raza humana\u201d. \u2013 Aung San Suu Kyi**   \r\nAung San Suu Kyi es pol\u00edtica, autora y ganadora del Premio Nobel de la Paz, nacida en Birmania, en el sudeste de Asia. Recibi\u00f3 el Premio Nobel de la Paz en 1991 por su protesta pac\u00edfica y pasiva contra la injusticia. En 2016, se convirti\u00f3 en la consejera estatal de Birmania. Aung San Suu Kyi ha tenido como misi\u00f3n alentar a otras mujeres y ni\u00f1as a involucrarse en la pol\u00edtica y a luchar por los derechos de las mujeres. Dice: \u201cDebemos ense\u00f1arles a nuestros hijos las normas de igualdad y respeto. Y debemos ense\u00f1arles a nuestras hijas que pueden llegar tan lejos como sea humanamente posible\u201d.\r\n\r\n**\u201cEl secreto est\u00e1 en las peque\u00f1as cosas que hacen los ciudadanos. Eso es lo que marcar\u00e1 la diferencia. La peque\u00f1a cosa que hago es plantar \u00e1rboles\u201d. \u2013 Wangari Maathai**   \r\nWangari Maathai es una defensora del medio ambiente, nacida en Kenia en un pueblo rural, que se convirti\u00f3 en la primera mujer africana en recibir el Premio Nobel de la Paz, en 2004. Comenz\u00f3 con el Movimiento del Cintur\u00f3n Verde como una forma de educar a las personas sobre los beneficios de plantar \u00e1rboles. Cre\u00eda que incluso las acciones m\u00e1s peque\u00f1as que realizan las mujeres y las ni\u00f1as podr\u00edan ayudar a mejorar el mundo para sus hijos y los hijos de sus hijos.", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "0d269f68425a4f93ba020836451f4f3b", 
   "published": null, 
-  "position": 314, 
+  "position": 322, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "logramos-un-mundo-mejor", 
   "uuid": "81b95e3eb0944d0e8d725446214df5a2"
