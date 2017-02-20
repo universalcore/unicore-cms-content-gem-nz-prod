@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "3a9ec7e44376487dae852de2e4dc9ee7", 
+  "language": "spa_CO", 
+  "title": "Historias de chicas", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "historias-de-chicas", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
